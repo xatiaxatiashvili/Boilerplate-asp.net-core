@@ -1,0 +1,363 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\User\\Downloads\\Acme.SimpleTaskSystem\\4.2.0\\test\\Acme.SimpleTaskSystem.Tests\\Acme.SimpleTaskSystem.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\User\\Downloads\\Acme.SimpleTaskSystem\\4.2.0\\src\\Acme.SimpleTaskSystem.Application\\Acme.SimpleTaskSystem.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Downloads\\Acme.SimpleTaskSystem\\4.2.0\\src\\Acme.SimpleTaskSystem.Application\\Acme.SimpleTaskSystem.Application.csproj",
+        "projectName": "Acme.SimpleTaskSystem.Application",
+        "projectPath": "C:\\Users\\User\\Downloads\\Acme.SimpleTaskSystem\\4.2.0\\src\\Acme.SimpleTaskSystem.Application\\Acme.SimpleTaskSystem.Application.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Downloads\\Acme.SimpleTaskSystem\\4.2.0\\src\\Acme.SimpleTaskSystem.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\User\\Downloads\\Acme.SimpleTaskSystem\\4.2.0\\src\\Acme.SimpleTaskSystem.Core\\Acme.SimpleTaskSystem.Core.csproj": {
+                "projectPath": "C:\\Users\\User\\Downloads\\Acme.SimpleTaskSystem\\4.2.0\\src\\Acme.SimpleTaskSystem.Core\\Acme.SimpleTaskSystem.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Abp.AutoMapper": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "Abp.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\Downloads\\Acme.SimpleTaskSystem\\4.2.0\\src\\Acme.SimpleTaskSystem.Core\\Acme.SimpleTaskSystem.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Downloads\\Acme.SimpleTaskSystem\\4.2.0\\src\\Acme.SimpleTaskSystem.Core\\Acme.SimpleTaskSystem.Core.csproj",
+        "projectName": "Acme.SimpleTaskSystem.Core",
+        "projectPath": "C:\\Users\\User\\Downloads\\Acme.SimpleTaskSystem\\4.2.0\\src\\Acme.SimpleTaskSystem.Core\\Acme.SimpleTaskSystem.Core.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Downloads\\Acme.SimpleTaskSystem\\4.2.0\\src\\Acme.SimpleTaskSystem.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Abp": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\Downloads\\Acme.SimpleTaskSystem\\4.2.0\\src\\Acme.SimpleTaskSystem.EntityFrameworkCore\\Acme.SimpleTaskSystem.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Downloads\\Acme.SimpleTaskSystem\\4.2.0\\src\\Acme.SimpleTaskSystem.EntityFrameworkCore\\Acme.SimpleTaskSystem.EntityFrameworkCore.csproj",
+        "projectName": "Acme.SimpleTaskSystem.EntityFrameworkCore",
+        "projectPath": "C:\\Users\\User\\Downloads\\Acme.SimpleTaskSystem\\4.2.0\\src\\Acme.SimpleTaskSystem.EntityFrameworkCore\\Acme.SimpleTaskSystem.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Downloads\\Acme.SimpleTaskSystem\\4.2.0\\src\\Acme.SimpleTaskSystem.EntityFrameworkCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\User\\Downloads\\Acme.SimpleTaskSystem\\4.2.0\\src\\Acme.SimpleTaskSystem.Core\\Acme.SimpleTaskSystem.Core.csproj": {
+                "projectPath": "C:\\Users\\User\\Downloads\\Acme.SimpleTaskSystem\\4.2.0\\src\\Acme.SimpleTaskSystem.Core\\Acme.SimpleTaskSystem.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Abp.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\Downloads\\Acme.SimpleTaskSystem\\4.2.0\\test\\Acme.SimpleTaskSystem.Tests\\Acme.SimpleTaskSystem.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Downloads\\Acme.SimpleTaskSystem\\4.2.0\\test\\Acme.SimpleTaskSystem.Tests\\Acme.SimpleTaskSystem.Tests.csproj",
+        "projectName": "Acme.SimpleTaskSystem.Tests",
+        "projectPath": "C:\\Users\\User\\Downloads\\Acme.SimpleTaskSystem\\4.2.0\\test\\Acme.SimpleTaskSystem.Tests\\Acme.SimpleTaskSystem.Tests.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Downloads\\Acme.SimpleTaskSystem\\4.2.0\\test\\Acme.SimpleTaskSystem.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\User\\Downloads\\Acme.SimpleTaskSystem\\4.2.0\\src\\Acme.SimpleTaskSystem.Application\\Acme.SimpleTaskSystem.Application.csproj": {
+                "projectPath": "C:\\Users\\User\\Downloads\\Acme.SimpleTaskSystem\\4.2.0\\src\\Acme.SimpleTaskSystem.Application\\Acme.SimpleTaskSystem.Application.csproj"
+              },
+              "C:\\Users\\User\\Downloads\\Acme.SimpleTaskSystem\\4.2.0\\src\\Acme.SimpleTaskSystem.EntityFrameworkCore\\Acme.SimpleTaskSystem.EntityFrameworkCore.csproj": {
+                "projectPath": "C:\\Users\\User\\Downloads\\Acme.SimpleTaskSystem\\4.2.0\\src\\Acme.SimpleTaskSystem.EntityFrameworkCore\\Acme.SimpleTaskSystem.EntityFrameworkCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Abp.TestBase": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "Castle.Core": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "Castle.Windsor.MsDependencyInjection": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            },
+            "Microsoft.DotNet.InternalAbstractions": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Shouldly": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.extensibility.execution": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

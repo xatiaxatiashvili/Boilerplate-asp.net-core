@@ -1,0 +1,15 @@
+C:\Users\User\Downloads\Acme.SimpleTaskSystem\4.2.0\src\Acme.SimpleTaskSystem.EntityFrameworkCore\bin\Debug\netcoreapp2.1\Acme.SimpleTaskSystem.EntityFrameworkCore.dll.config
+C:\Users\User\Downloads\Acme.SimpleTaskSystem\4.2.0\src\Acme.SimpleTaskSystem.EntityFrameworkCore\bin\Debug\netcoreapp2.1\Acme.SimpleTaskSystem.EntityFrameworkCore.deps.json
+C:\Users\User\Downloads\Acme.SimpleTaskSystem\4.2.0\src\Acme.SimpleTaskSystem.EntityFrameworkCore\bin\Debug\netcoreapp2.1\Acme.SimpleTaskSystem.EntityFrameworkCore.runtimeconfig.json
+C:\Users\User\Downloads\Acme.SimpleTaskSystem\4.2.0\src\Acme.SimpleTaskSystem.EntityFrameworkCore\bin\Debug\netcoreapp2.1\Acme.SimpleTaskSystem.EntityFrameworkCore.runtimeconfig.dev.json
+C:\Users\User\Downloads\Acme.SimpleTaskSystem\4.2.0\src\Acme.SimpleTaskSystem.EntityFrameworkCore\bin\Debug\netcoreapp2.1\Acme.SimpleTaskSystem.EntityFrameworkCore.dll
+C:\Users\User\Downloads\Acme.SimpleTaskSystem\4.2.0\src\Acme.SimpleTaskSystem.EntityFrameworkCore\bin\Debug\netcoreapp2.1\Acme.SimpleTaskSystem.EntityFrameworkCore.pdb
+C:\Users\User\Downloads\Acme.SimpleTaskSystem\4.2.0\src\Acme.SimpleTaskSystem.EntityFrameworkCore\bin\Debug\netcoreapp2.1\Acme.SimpleTaskSystem.Core.dll
+C:\Users\User\Downloads\Acme.SimpleTaskSystem\4.2.0\src\Acme.SimpleTaskSystem.EntityFrameworkCore\bin\Debug\netcoreapp2.1\Acme.SimpleTaskSystem.Core.pdb
+C:\Users\User\Downloads\Acme.SimpleTaskSystem\4.2.0\src\Acme.SimpleTaskSystem.EntityFrameworkCore\obj\Debug\netcoreapp2.1\Acme.SimpleTaskSystem.EntityFrameworkCore.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Acme.SimpleTaskSystem\4.2.0\src\Acme.SimpleTaskSystem.EntityFrameworkCore\obj\Debug\netcoreapp2.1\Acme.SimpleTaskSystem.EntityFrameworkCore.dll.config
+C:\Users\User\Downloads\Acme.SimpleTaskSystem\4.2.0\src\Acme.SimpleTaskSystem.EntityFrameworkCore\obj\Debug\netcoreapp2.1\Acme.SimpleTaskSystem.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Acme.SimpleTaskSystem\4.2.0\src\Acme.SimpleTaskSystem.EntityFrameworkCore\obj\Debug\netcoreapp2.1\Acme.SimpleTaskSystem.EntityFrameworkCore.AssemblyInfo.cs
+C:\Users\User\Downloads\Acme.SimpleTaskSystem\4.2.0\src\Acme.SimpleTaskSystem.EntityFrameworkCore\obj\Debug\netcoreapp2.1\Acme.SimpleTaskSystem.EntityFrameworkCore.csproj.CopyComplete
+C:\Users\User\Downloads\Acme.SimpleTaskSystem\4.2.0\src\Acme.SimpleTaskSystem.EntityFrameworkCore\obj\Debug\netcoreapp2.1\Acme.SimpleTaskSystem.EntityFrameworkCore.dll
+C:\Users\User\Downloads\Acme.SimpleTaskSystem\4.2.0\src\Acme.SimpleTaskSystem.EntityFrameworkCore\obj\Debug\netcoreapp2.1\Acme.SimpleTaskSystem.EntityFrameworkCore.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Downloads\Acme.SimpleTaskSystem\4.2.0\src\Acme.SimpleTaskSystem.Application\bin\Debug\netcoreapp2.1\Acme.SimpleTaskSystem.Application.deps.json
+C:\Users\User\Downloads\Acme.SimpleTaskSystem\4.2.0\src\Acme.SimpleTaskSystem.Application\bin\Debug\netcoreapp2.1\Acme.SimpleTaskSystem.Application.dll
+C:\Users\User\Downloads\Acme.SimpleTaskSystem\4.2.0\src\Acme.SimpleTaskSystem.Application\bin\Debug\netcoreapp2.1\Acme.SimpleTaskSystem.Application.pdb
+C:\Users\User\Downloads\Acme.SimpleTaskSystem\4.2.0\src\Acme.SimpleTaskSystem.Application\bin\Debug\netcoreapp2.1\Acme.SimpleTaskSystem.Core.dll
+C:\Users\User\Downloads\Acme.SimpleTaskSystem\4.2.0\src\Acme.SimpleTaskSystem.Application\bin\Debug\netcoreapp2.1\Acme.SimpleTaskSystem.Core.pdb
+C:\Users\User\Downloads\Acme.SimpleTaskSystem\4.2.0\src\Acme.SimpleTaskSystem.Application\obj\Debug\netcoreapp2.1\Acme.SimpleTaskSystem.Application.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Acme.SimpleTaskSystem\4.2.0\src\Acme.SimpleTaskSystem.Application\obj\Debug\netcoreapp2.1\Acme.SimpleTaskSystem.Application.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Acme.SimpleTaskSystem\4.2.0\src\Acme.SimpleTaskSystem.Application\obj\Debug\netcoreapp2.1\Acme.SimpleTaskSystem.Application.AssemblyInfo.cs
+C:\Users\User\Downloads\Acme.SimpleTaskSystem\4.2.0\src\Acme.SimpleTaskSystem.Application\obj\Debug\netcoreapp2.1\Acme.SimpleTaskSystem.Application.csproj.CopyComplete
+C:\Users\User\Downloads\Acme.SimpleTaskSystem\4.2.0\src\Acme.SimpleTaskSystem.Application\obj\Debug\netcoreapp2.1\Acme.SimpleTaskSystem.Application.dll
+C:\Users\User\Downloads\Acme.SimpleTaskSystem\4.2.0\src\Acme.SimpleTaskSystem.Application\obj\Debug\netcoreapp2.1\Acme.SimpleTaskSystem.Application.pdb
